@@ -1,6 +1,11 @@
 # sorting_mechanism
 Take in a list and return a list of sublists 
 
+Note that the "sorting" in this code refers to how the input is sorted amongst the sublists
+
+the order in which the items appear in the initial input list will not necessarily be preserved
+
+
 This code's main function is to take an input list and then return a list of sublists.
 There are 3 main paths:
 
@@ -47,5 +52,4 @@ Example:
     expected = [[1, 2, 3, 4, 5, 6, 7, 8], [9, 10, 11]]
 ```
 
-Note that the "sorting" in this code refers to how the input is sorted amongst the sublists
-the order in which the items appear in the initial input list will not necessarily be preserved
+
